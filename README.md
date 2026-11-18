@@ -18,7 +18,7 @@ Der größere Teil meiner Arbeit liegt in privaten Repositories, weil dort Kunde
 
 - **Lesen dürfen Agenten alles, ändern nur mit meinem Okay.** Vor jeder Änderung an einem Produktivsystem zeigt der Agent, was betroffen ist. Die Freigabe gilt für diese eine Änderung.
 - **Ein Fehler darf einmal passieren.** Jeder Fehler wird mit Ursache notiert. Beim zweiten Mal bekommt er eine Regel und möglichst einen automatischen Test, beim dritten Mal wird er technisch unmöglich gemacht.
-- **Wer baut, prüft nicht selbst.** Was ein Modell gebaut hat, prüft ein Modell eines anderen Anbieters.
+- **Wer baut, prüft nicht selbst.** Was ein Modell gebaut hat, prüft ein unabhängiger Prüfer ohne Vorwissen: ein Modell eines anderen Anbieters, wo Daten das zulassen, sonst ein getrennter Agent.
 - **Grüne Tests reichen nicht.** Ich sehe mir an, was am Ende wirklich ankommt, im Browser und auf dem Handy.
 - **Jede Behauptung braucht eine Quelle.** Zahlen kommen frisch aus dem System. Gibt es keine Quelle, wird nachgefragt oder weggelassen.
 - **Manches bleibt Chefsache.** Preise, rechtliche Formulierungen, Verhandlungen und der Versand von Mails laufen nicht automatisch. Eine Ausnahme habe ich bewusst beschlossen: einen Wochenbericht, der hinter zwei Prüfungen verschickt wird und sich abschalten lässt.
